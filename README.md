@@ -1,3 +1,6 @@
+This is rewritten fork. Project is now managed by gradle and led as kotlin multiplatform, that way you can use it as jvm or javascript dependency (or more if you add more platforms). Jitpack dependency is also possible. Slightly changed API - `Options` is now data class so that setting options is more type-safe.
+
+
 Sanscript.java
 =============================
 
