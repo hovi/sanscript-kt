@@ -1,7 +1,5 @@
 package com.wellebee.sanskrit
 
-import eu.karelhovorka.tools.Scheme
-import eu.karelhovorka.tools.Schemes
 import org.junit.Assert
 import org.junit.Test
 import java.util.*

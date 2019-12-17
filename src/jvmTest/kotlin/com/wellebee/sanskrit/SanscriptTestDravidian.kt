@@ -1,6 +1,5 @@
 package com.wellebee.sanskrit
 
-import com.wellebee.sanskrit.SanscriptTest
 import org.junit.Test
 
 class SanscriptTestDravidian : SanscriptTest() {

@@ -1,6 +1,5 @@
 package com.wellebee.sanskrit
 
-import eu.karelhovorka.tools.Sanscript
 import org.junit.Test
 
 class SanscriptTestOptions : SanscriptTest() {
