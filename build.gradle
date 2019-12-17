@@ -21,7 +21,7 @@ repositories {
 }
 
 group 'com.github.hovi'
-version '0.0.1'
+version '0.0.3'
 
 
 
