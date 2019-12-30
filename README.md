@@ -1,7 +1,7 @@
-This is rewritten fork. Project is now managed by gradle and led as kotlin multiplatform, that way you can use it as jvm or javascript dependency (or more if you add more platforms). Jitpack dependency is also possible. Slightly changed API - `Options` is now data class so that setting options is more type-safe.
+This is fork rewritten to kotlin. Project is now managed by gradle kotlin multiplatform, that way you can use it as common, jvm or javascript dependency (or more if you add more platforms). Jitpack dependency is also possible. Slightly changed API - `Options` is now data class so that setting options is more type-safe.
 
 
-Sanscript.java
+Sanscript.kt
 =============================
 
 Introduction
@@ -11,6 +11,15 @@ Sanscript is a transliteration library for Indian languages written in Java. It 
 Requirements
 -----------------------------
 Sanscript requires Java 8 or higher.
+
+
+Gradle dependencies (need jitpack repository):
+-
+- Jvm
+`implementation "com.github.hovi.sanscript-kt:sanscript-jvm:0.0.3"`
+- Common `implementation "com.github.hovi.sanscript-kt:sanscript:0.0.3"`
+
+
 
 Usage
 -----------------------------
